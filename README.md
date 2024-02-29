@@ -1,0 +1,2 @@
+# neoconfig
+neovim (lazyvim) configuration
